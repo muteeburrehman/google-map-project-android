@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">قارئ ملفات Excel</string>
+    <string name="search_hint">أدخل المعرف للبحث</string>
+    <string name="search_button">بحث</string>
+    <string name="directions_button">احصل على الاتجاهات</string>
+    <string name="file_selection">اختيار الملف</string>
+    <string name="select_button">اختيار</string>
+    <string name="location_not_found">لم يتم العثور على الموقع</string>
+    <string name="no_location_selected">لم يتم تحديد موقع</string>
+    <string name="no_route_found">لم يتم العثور على مسار</string>
+    <string name="google_maps_key">AIzaSyA_h3VXJWYX7W9X1dIsQX_SQf9hLIFyVgk</string>
+    <string name="get_directions">احصل على الاتجاهات\n</string>
+    <string-array name="file_names">
+        <item>كورك.xlsx</item> <!-- Arabic file name -->
+        <item>اسيا.xlsx</item> <!-- Arabic file name -->
+        <item>زين.xlsx</item> <!-- Arabic file name -->
+    </string-array>
+</resources>
+
+
+
